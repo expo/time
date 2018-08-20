@@ -1,6 +1,6 @@
 {
   "name": "@expo/time",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple JS timer with logging",
   "main": "index.js",
   "repository": "https://github.com/expo/time.git",

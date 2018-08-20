@@ -8,6 +8,7 @@ function start() {
 
 function end(key, label, opts) {
   let endTime = Date.now();
+  label = label || 'time';
   opts = opts || {};
   let startTime = _START_TIMES[key];
   if (!startTime) {
